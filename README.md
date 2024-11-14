@@ -26,7 +26,7 @@ To run this project, you need to install the following dependencies using Poetry
 ```bash
 poetry install
 
-git clone --recurse-submodule https://github.com/HiIAmTzeKean/SC4001-Value-Alignment-Network
+git clone --recurse-submodule https://github.com/russellphun/SC4001-Evaluating---Enhancing-Moral-Alignment-in-Large-Language-Models--LLMs-
 cd SaGE/library
 pip install -e .
 ```
